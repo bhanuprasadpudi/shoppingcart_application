@@ -2,6 +2,7 @@
 Shopping Cart Application
 
 Overview:
+The application provides an functionality of adding items into cart and also whishlist the items which we want buy next time instead of adding to cart. It manages items in the cart and a wishlist, providing methods for adding, updating, and calculating totals.
 Here’s a concise overview Python code:
 	.The code defines two classes: Item and ShoppingCart.
 	.The Item class represents an item with a name and price, and it has a custom string representation.
